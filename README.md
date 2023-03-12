@@ -1,5 +1,5 @@
 # PortScanner
-This is a beta version of this Port Scanner tool in python. this will be completely release alpha version after completing the testing.
+This is a beta version of this Port Scanner tool in python.
 
 githclone the repo
 
