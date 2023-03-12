@@ -3,7 +3,7 @@ This is a beta version of this Port Scanner tool in python.
 
 githclone the repo
 
-git clone
+git clone https://github.com/sanjai-AK47/PortScanner.git
 
 the files will be cloned to your working directory.
 After cloning the files run the requirements.py by
