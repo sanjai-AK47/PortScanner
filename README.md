@@ -6,6 +6,7 @@ Steps to vone:
 the files will be cloned to your working directory.
 
 After cloning the files change the directory
+
 2.cd /PortScanner/Portscanner_program/
 
 3:python3 requirements.py
